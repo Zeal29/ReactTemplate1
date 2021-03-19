@@ -1,4 +1,4 @@
-# Recrowdly
+# React Template 1
 
 ## installation
 
